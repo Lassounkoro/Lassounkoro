@@ -8,6 +8,6 @@
 
 📙  Currently learning SQL, Python...
 
-✉  you can reach here isilue@outlook.com or https://www.linkedin.com/in/ibrahimsilué
+✉  you can reach me here isilue@outlook.com or https://www.linkedin.com/in/ibrahimsilué
 
 🌥  hopefully i will find some good advice and collaborations here to improve my skills
