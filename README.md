@@ -1,13 +1,8 @@
-✋  Hi there
+✋  Hello world !
 
-🫚  Coming from finance/accounting sector
+DATA ANALYST | 10 ans d’expérience dans la finance/comptabilité, avec une vraie expertise data : nettoyage, analyse, enrichissement et visualisation de l’information.
+Maitrise des langages Python, SQL
+Maitrise de Power BI.
+Capacité à optimiser les processus et produire des insights utiles pour la prise de décision
 
-🌱  Making a career change from accounting manager to become a data specialist
-
-🎷  Truly pationate about data and how it can help in decision making
-
-📙  Currently learning SQL, Python...
-
-✉  you can reach me here isilue@outlook.com or https://www.linkedin.com/in/ibrahimsilué
-
-🌥  hopefully i will find some good advice and collaborations here to improve my skills
+✉  Pour me contacter : isilue@outlook.com | https://www.linkedin.com/in/ibrahimsilué
