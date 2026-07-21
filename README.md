@@ -1,4 +1,4 @@
-✋  Hello world !
+✋  Hello World !
 
 DATA ANALYST | 10 ans d’expérience dans la finance/comptabilité, avec une vraie expertise data : nettoyage, analyse, enrichissement et visualisation de l’information.
 Maitrise des langages Python, SQL
